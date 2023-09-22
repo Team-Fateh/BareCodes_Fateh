@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Teensy MPU6050 trial",
+			"path": "../Trial_codes/Teensy MPU6050 trial"
+		}
+	],
+	"settings": {}
+}
